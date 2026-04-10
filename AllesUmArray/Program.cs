@@ -1,9 +1,4 @@
-﻿
-using System.Reflection.Emit;
-using System.Runtime.CompilerServices;
-using System.Security.Cryptography.X509Certificates;
-
-namespace DojoCSAufgaben
+﻿namespace DojoCSAufgaben
 {
     internal class Program
     {
